@@ -17,7 +17,7 @@ public class Main{
                arr[i][j]=sc.nextInt();
            }
         }
-        System.out.println("the number of the students are in those classe are:");
+        System.out.println("The ages of the students are in those classes are:");
         
         for(int i=0;i<classes;i++)
         {
