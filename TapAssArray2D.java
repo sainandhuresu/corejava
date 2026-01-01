@@ -13,7 +13,7 @@ public class Main{
         {
            for(int j=0;j<students;j++)
            {
-               System.out.println("enter the "+(i+1)+ " class "+(j+1)+" student ");
+               System.out.println("enter ages of the "+(i+1)+ " class "+(j+1)+" student ");
                arr[i][j]=sc.nextInt();
            }
         }
